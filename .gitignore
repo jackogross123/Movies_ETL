@@ -1,3 +1,14 @@
+# Add
+
+credits.csv
+keywords.csv
+links_small.csv
+links.csv
+movies_metadata.csv
+ratings_small.csv
+ratings.csv
+configy.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
